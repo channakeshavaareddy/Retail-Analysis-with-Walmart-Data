@@ -67,20 +67,23 @@ The aim of this project is to analyze Walmart’s historical sales data to under
 ![image alt](https://github.com/channakeshavaareddy/Retail-Analysis-with-Walmart-Data/blob/main/Screenshots/Screenshot%202026-05-12%20124850.png)
 
 ### Holiday Sales Impact
-![image alt](https://github.com/channakeshavaareddy/Employee-Turnover-Analytics/blob/main/Screenshots%20(ETA)/Screenshot%202026-04-30%20115424.png)
+![image alt](https://github.com/channakeshavaareddy/Retail-Analysis-with-Walmart-Data/blob/main/Screenshots/Screenshot%202026-05-12%20125030.png)
 ![image alt](https://github.com/channakeshavaareddy/Retail-Analysis-with-Walmart-Data/blob/main/Screenshots/Screenshot%202026-05-12%20125030.png)
 
 ### Holiday Sales Impact
-![image alt](https://github.com/channakeshavaareddy/Retail-Analysis-with-Walmart-Data/blob/main/Screenshots/Screenshot%202026-05-12%20125240.png)
+![image alt](https://github.com/channakeshavaareddy/Retail-Analysis-with-Walmart-Data/blob/main/Screenshots/Screenshot%202026-05-12%20125150.png)
 
 ### Monthly Sales Trend
-![image alt](https://github.com/channakeshavaareddy/Employee-Turnover-Analytics/blob/main/Screenshots%20(ETA)/Screenshot%202026-04-30%20115424.png)
+![image alt](https://github.com/channakeshavaareddy/Retail-Analysis-with-Walmart-Data/blob/main/Screenshots/Screenshot%202026-05-12%20125240.png)
 
-### Correlation Heatmap
-![image alt](https://github.com/channakeshavaareddy/Employee-Turnover-Analytics/blob/main/Screenshots%20(ETA)/Screenshot%202026-04-30%20115424.png)
+### Outlier Detection
+![image alt](https://github.com/channakeshavaareddy/Retail-Analysis-with-Walmart-Data/blob/main/Screenshots/Screenshot%202026-05-12%20125314.png)
 
-### Correlation Heatmap
-![image alt](https://github.com/channakeshavaareddy/Employee-Turnover-Analytics/blob/main/Screenshots%20(ETA)/Screenshot%202026-04-30%20115424.png)
+### Model Prediction Results
+![image alt](https://github.com/channakeshavaareddy/Retail-Analysis-with-Walmart-Data/blob/main/Screenshots/Screenshot%202026-05-12%20125429.png)
+
+### Model Evaluation Metrics
+![image alt](https://github.com/channakeshavaareddy/Retail-Analysis-with-Walmart-Data/blob/main/Screenshots/Screenshot%202026-05-12%20125442.png)
 
 
 
