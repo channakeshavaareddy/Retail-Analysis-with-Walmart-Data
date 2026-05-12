@@ -85,6 +85,13 @@ The aim of this project is to analyze Walmart’s historical sales data to under
 ### Model Evaluation Metrics
 ![image alt](https://github.com/channakeshavaareddy/Retail-Analysis-with-Walmart-Data/blob/main/Screenshots/Screenshot%202026-05-12%20125442.png)
 
+##  Conclusion
 
+This project successfully analyzed Walmart’s historical sales data to understand key business patterns and factors affecting weekly sales. Through exploratory data analysis, important insights were identified related to store-wise performance, seasonal trends, and the impact of major holidays on sales.
 
+Economic factors such as CPI, fuel price, and unemployment were also analyzed to understand their relationship with sales behavior. Additionally, feature engineering helped improve data usability for modeling.
+
+A Linear Regression model was built to forecast weekly sales, and its performance was evaluated using standard metrics like MAE, MSE, and RMSE. Although the model showed limited accuracy, it provided a baseline understanding of demand prediction and highlighted the need for more advanced time-series or ensemble models for better accuracy.
+
+Overall, the project demonstrates how data analysis and machine learning can be applied in retail to support better inventory planning, demand forecasting, and business decision-making.
 
