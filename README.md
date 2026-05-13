@@ -68,9 +68,6 @@ The aim of this project is to analyze Walmart’s historical sales data to under
 
 ### Holiday Sales Impact
 ![image alt](https://github.com/channakeshavaareddy/Retail-Analysis-with-Walmart-Data/blob/main/Screenshots/Screenshot%202026-05-12%20125030.png)
-![image alt](https://github.com/channakeshavaareddy/Retail-Analysis-with-Walmart-Data/blob/main/Screenshots/Screenshot%202026-05-12%20125030.png)
-
-### Holiday Sales Impact
 ![image alt](https://github.com/channakeshavaareddy/Retail-Analysis-with-Walmart-Data/blob/main/Screenshots/Screenshot%202026-05-12%20125150.png)
 
 ### Monthly Sales Trend
